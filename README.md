@@ -4,10 +4,10 @@
 2. Pernyataan Masalah
 3. Data
    3.1  Data Understanding and Cleaning
-       3.1.1 Change Index
-       3.1.2 Change Column Names
-       3.1.3 Change Block
-       3.1.4 Change Ontime
+   3.1.1 Change Index
+   3.1.2 Change Column Names
+   3.1.3 Change Block
+   3.1.4 Change Ontime
 4. Data Analysis
    4.1  Ontime Vs Shipment
    4.2  Ontime Vs Block
